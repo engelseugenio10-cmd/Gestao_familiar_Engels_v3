@@ -1,0 +1,27 @@
+# Arquivos de conexão e configurações locais
+conexao.php
+config.php
+.env
+
+# Dependências do Composer/XAMPP
+/vendor/
+/node_modules/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e arquivos temporários
+*.log
+error_log
+/cache/
+
+# Backups do banco de dados
+*.sql
+!banco.sql
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.sublime-workspace
